@@ -5,3 +5,4 @@
 *   Read about Hadoop, Spark, DataFrame
 *   Tried basic Hadoop commands
 *   Tried example from the slideshow (using pandas)
+*   Started working on aggregation script
