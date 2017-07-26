@@ -2,4 +2,4 @@
 
 *   Continue working on data aggregation script.
 *   Add AAA stream to aggregation script (use /project/monitoring/archive/xrootd/enr/gled as source)
-*   Working on joining EOS and PhEDEx tables in order to add site name attribute to EOS stream
+*   Add EOS stream by EOS and PhEDEx tables in order to have site name attribute
